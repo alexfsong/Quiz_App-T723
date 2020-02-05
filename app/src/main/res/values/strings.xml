@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="hello_tj">Hello TJ!</string>
+    <string name="name_hint">name?</string>
+    <string name="color_hint">Favorite\ color?</string>
+    <string name="click_button">I\'m pressed</string>
+</resources>
